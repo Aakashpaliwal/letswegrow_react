@@ -1,0 +1,8 @@
+.about_content_parent {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.about_content_parent .item {
+  order: 5; /* default is 0 */
+}
